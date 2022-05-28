@@ -1,0 +1,1 @@
+We use wavelet transformation. It allows us to extract important features 

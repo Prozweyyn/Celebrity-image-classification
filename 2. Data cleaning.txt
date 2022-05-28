@@ -1,0 +1,1 @@
+We used opencv for this. we took a photo, converted it into grey scale, find out a face, a pair of eyes, and then save the cropped image into a different cropped folder.

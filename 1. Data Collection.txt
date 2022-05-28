@@ -1,0 +1,5 @@
+There are 4 ways we can follow to collect data:
+	Manually download from chrome-manual and labour intensive. Applicable for small data but not for large data
+	Use python and web scraping- falls in the grey area as most sites dont like their info getting scraped
+	Fatkun chrome tool- most user friendly and free tool
+	Buy data from 3rd party vendors
